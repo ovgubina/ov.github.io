@@ -1,0 +1,82 @@
+body {
+    background: #000000;
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+    size: auto;
+}
+
+hr {
+    border: none;
+    color: white;
+    background-color: white;
+    height: 1px;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.table_1 {
+    width: 400px;
+    height: 120px;
+    border: 10px double mediumpurple;
+    background-color: dimgrey;
+}
+
+.cells {
+    border: 2px groove #FFFFFF;
+}
+
+.table_2 {
+    width: 800px;
+    table-layout: fixed;
+    height: 120px;
+    border: 2px groove mediumpurple;
+    background-color: dimgrey;
+}
+
+.spotify {
+    color: #1DB954;
+}
+
+.margin {
+    margin-left: 50px;
+}
+
+.fio {
+    color: dimgrey;
+}
+
+.borders {
+    border: 1px solid mediumpurple;
+    padding: 5px;
+    width: 300px;
+}
+
+.table_3 {
+    table-layout: fixed;
+    width: 350px;
+    border: 2px groove mediumpurple;
+    float: right;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    horiz-align: left;
+}
+
+.cells3 {
+    background-color: mediumpurple;
+}
+
+.image {
+    width: 400px;
+    height: 225px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
